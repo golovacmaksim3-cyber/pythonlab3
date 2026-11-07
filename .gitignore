@@ -1,0 +1,17 @@
+﻿# виртуальные окружения
+.venv*/
+venv/
+env/
+
+# python
+__pycache__/
+*.pyc
+
+# jupyter
+.ipynb_checkpoints/
+
+# IDE и ОС
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
